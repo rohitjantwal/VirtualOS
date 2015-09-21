@@ -5,3 +5,5 @@ A graphical UI implemented using multithreading in java. A virtual machine like 
 
 A snapshot of the UI:
 ![vos_snap](https://cloud.githubusercontent.com/assets/5901681/9975295/3cf917a6-5e85-11e5-87eb-ba1c5a7945b5.png)
+
+Snapshot of the Client Server UI:
